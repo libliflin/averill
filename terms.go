@@ -104,4 +104,21 @@ var AllTerms []Term = []Term{
 		"Physical properties that do not vary with the amount of the" +
 			" substance."},
 	{"density", "1.3",
-		"Mass per unit volume."}}
+		"Mass per unit volume."},
+	{"cathode", "1.5",
+		"Negatively charged electrode."},
+	{"cathode rays", "1.5",
+		"Light emitted from a cathode in a gas discharge tube."},
+	{"radioactivity", "1.5",
+		"Emission of energy rays by matter."},
+	{"alpha particles", "1.5",
+		"A readily absorbed, massive compared to electrons, type of radiation."},
+	{"beta particles", "1.5",
+		"A type of radiation with the same charge and mass-to-charge" +
+			" ratio as electrons."},
+	{"gamma rays", "1.5",
+		"A type of radiation found to be similar to a lower-energy form" +
+			" of radiation called X-rays."},
+	{"nucleus", "1.5",
+		"The mass and positive charge of an atom concentrated in a tiny" +
+			" fraction of the volume."}}
