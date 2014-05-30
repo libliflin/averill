@@ -1,4 +1,4 @@
-package laws
+package averill
 
 type Law struct {
 	Name           string

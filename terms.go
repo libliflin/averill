@@ -1,4 +1,4 @@
-package terms
+package averill
 
 type Term struct{ Term, Location, Definition string }
 

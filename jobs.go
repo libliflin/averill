@@ -1,4 +1,4 @@
-package jobs
+package averill
 
 type Job struct {
 	Name  string
@@ -6,5 +6,5 @@ type Job struct {
 }
 
 var AllJobs []Job = []Job{
-	{"Geologist",
-		{"Chemical techniques are used to analyze and identify rock samples."}}}
+	{"Geologist", []string{"Chemical techniques are used to analyze and" +
+		" identify rock samples."}}}
